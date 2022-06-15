@@ -1,0 +1,2 @@
+# SimpleAutomation
+WebDriver を使ってオートメーションをやっていきたい
